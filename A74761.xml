@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The iniquity of the late Solemne League, or Covenant discovered: by way of a letter to a gentleman desiring information upon the poynt. Whereunto is subjoyned the Covenant it selfe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74761</idno>
+            <idno type="STC">Thomason E36_10</idno>
+            <idno type="STC">ESTC R229345</idno>
+            <idno type="EEBO-CITATION">99859415</idno>
+            <idno type="PROQUEST">99859415</idno>
+            <idno type="VID">111491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111491)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E36[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The iniquity of the late Solemne League, or Covenant discovered: by way of a letter to a gentleman desiring information upon the poynt. Whereunto is subjoyned the Covenant it selfe.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed March 9. 1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A London counterfeit of the Oxford edition (Madan). In this edition, title page line 8 has "by way of a letter"; A2r last line has "Resolute".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Controversial literature --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:111491:1" rendition="simple:additions"/> 
+               <hi>THE</hi> INIQVITY OF <hi>The Late Solemne League,</hi> OR COVENANT <hi>DJSCOVERED:</hi> By way of a Letter to a Gentleman deſiring information upon <hi>the Poynt.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is Subjoyned the Covenant it ſelfe.</hi>
+            </p>
+            <p>Printed, <hi>March</hi> 9. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111491:2"/>
+            <pb n="1" facs="tcp:111491:2"/>
+            <head>The Iniquity of the late Solemne League or Covenant, diſcovered by way of Letter to a Gentleman deſiring information <hi>upon the poynt.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N anſwer to your deſire of being infor<g ref="char:EOLhyphen"/>med concerning the late Covenant, I have endeavoured, as briefly and plain<g ref="char:EOLhyphen"/>ly, as I can, to let you underſtand what I conceive of it, and do adviſe upon it. I cannot but conceive that this <hi>Covenant,</hi> or <hi>Conſpiracy</hi> rather, is a Combination wickedly contrived, and upon the Conſciences of others as wickedly impoſed by thoſe, who, under pretence of re<g ref="char:EOLhyphen"/>forming Religion and Government, would by force of Armes bring all into their Power.</p>
+            <p>It is a wonder to conſider, that men, who have alwaies cryed out for Liberty of Conſcience, not ſuffering them<g ref="char:EOLhyphen"/>ſelves to be limited in a Ceremony or thing indifferent, but in defence of that Liberty, endeavouring to bring all into confuſion, ſhould thus Imperiouſly Tyrannize over other mens Conſciences, forcing upon them Oath after Oath, Covenant after Covenant, till they have hardened them into a ſenſeleſneſſe of what is juſt and right.</p>
+            <p>Now for your ſelfe, who would continue Reſolute a<g ref="char:EOLhyphen"/>gainſt
+<pb n="2" facs="tcp:111491:3"/> it, and for thoſe Gentlemen, you ſpeak of, who have taken it, or are ſo reſolved, in hope of procuring their Li<g ref="char:EOLhyphen"/>berty thereby, if my reſolution and advice may in time be heard, it ſtands thus upon theſe two points.</p>
+            <p n="1">I. <hi>That no man can with a ſafe Conſcience enter this Co<g ref="char:EOLhyphen"/>venant, by reaſon of the groſſe and palpable iniquity of the Contents thereof.</hi>
+            </p>
+            <p n="2">II. <hi>That he who through his owne ignorance, and the cun<g ref="char:EOLhyphen"/>ning of others, has been ſeduced, or by their threats and Mena<g ref="char:EOLhyphen"/>ces forced, or by any other means brought on to enter this Co<g ref="char:EOLhyphen"/>venant with them, is not bound to the performance of the Contents, but having by the taking of it, contracted their guilt of a grievous ſinne, is bound to a ſpeedy Repentance for the ſame.</hi>
+            </p>
+            <p>Firſt, That the ſinne and unlawfullneſſe of taking it may appeare, you muſt conſider, that he which enters Cove<g ref="char:EOLhyphen"/>nant after this manner, doth before Almighty God pro<g ref="char:EOLhyphen"/>feſſe, that in Conſcience he allowes and approves the de<g ref="char:EOLhyphen"/>ſignes and intentions of them, he enters Covenant with, and doth alſo bind himſelfe to doe and purſue that, for which the Covenant is made. And accordingly you may obſerve, that in the cloſe of the Covenant, it is ſaid, <hi>And this Covenant we make in the preſence of Almighty God, the ſearcher of all hearts, with a true intention to performe the ſame.</hi> Now it is a known and received Rule, that an Oath or Covenant, (whether lawfully or unlawfully impoſed, it matters not, ſo a man yeelds himſelf to take it) is taken not according to the reſerved meaning of him that takes it, but according to the known and notorious meaning and intention of them that impoſe or require it. What ſuch an one doth profeſſe and bind himſelfe unto, will appeare in theſe particulars.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:111491:3"/> I. He that enters this Covenant, doth by the firſt and ſecond Articles thereof, before almighty God profeſſe, that he doth in Conſcience allow and approve the change, <hi>(i. e.)</hi> not the Reformation onely but aboliſhing) of this Church-government, and of the extirpation of Epiſco<g ref="char:EOLhyphen"/>pacy: and doth bind himſelfe by the ſame Articles, really and conſtantly to endeavour the ſame.</p>
+            <p>Now ſee the iniquity of this. Firſt; here is ſedition: Sub<g ref="char:EOLhyphen"/>jects entred into a Covenant for a change of eſtabliſhed Government, without and againſt their Soveraigns com<g ref="char:EOLhyphen"/>mand and Authority. The example they pretend for this out of, <hi>Ezra,</hi> 10. 3. makes againſt them; for there was no change of Law or Government attempted, and <hi>Ezra</hi> had good Authority for what he did, being ſent from the King with full commiſſion to carry backe the People to <hi>Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> and there to reſtore the Temple and Worſhip accor<g ref="char:EOLhyphen"/>ding to the Law of his God, <hi>Ezra</hi> 7. 13, 14. Secondly, here is injuſtice to fellow Subjects: Subjects entring a Co<g ref="char:EOLhyphen"/>venant, and binding themſelves to doe notorious injury and wrong to others; that is, to extirpate a company of Men, whoſe Function (I ſpeak of Biſhops) is of Apoſtoli<g ref="char:EOLhyphen"/>call inſtitution, and has continued in this Land, from the firſt receiving of the Chriſtian Faith: whoſe immunities al<g ref="char:EOLhyphen"/>ſo, and priviledges are undeniably moſt ancient and Legall in this Kingdome. Thirdly, here is a Sacriledge, in ſpoyl<g ref="char:EOLhyphen"/>ing Them, or a Church rather, of thoſe Poſſeſſions and Intereſts, which beſide the right of Dedication, doe by as good Law and Title belong to them, as any Libertie or Poſſeſſion doth to other Subjects. Laſtly, here is Rebel<g ref="char:EOLhyphen"/>lion with the greateſt impiety: Subjects endeavouring this by force of Armes (as it will appeare by the ſixth Article, they that Covenant, bind themſelves to doe) that is, to <pb n="4" facs="tcp:111491:4"/> compell your Soveraign to ſuch an Extirpation and ſpoyl<g ref="char:EOLhyphen"/>ing, againſt which he is bound by the Law of God, and by expreſſe Oath, and cannot be releaſed of that Oath, with<g ref="char:EOLhyphen"/>out their conſent to whom he makes it, <hi>viz.</hi> thoſe that muſt here be extirpated and ſpoiled.</p>
+            <p n="2">II. He that enters this Covenant, doth by the fourth Article profeſſe, that he allowes, All thoſe which adhere to His Majeſty in this Cauſe, ſhould be eſteemed and pro<g ref="char:EOLhyphen"/>ceeded againſt, as
+<hi>Malignants, Incendiaries,</hi> and as in the firſt Article they ſet them out, <hi>Common Enemies;</hi> for it is notorious and well knowne, whom the Impoſers of this Covenant doe meane by thoſe names. Alſo by the ſame fourth Article, he binds himſelf to diſcover all ſuch, that they may be brought to puniſhment.</p>
+            <p>The Iniquity of this appears, by what was ſaid upon the former Articles; but more eſpecially by the duties unto which the Oathes of Supremacy and Allegiance bind all Subjects, <hi>viz.</hi> the
+<hi>aſsiſting</hi> of His Majeſty againſt all at<g ref="char:EOLhyphen"/>tempts, and the
+<hi>diſcovering</hi> unto him all conſpiracies; du<g ref="char:EOLhyphen"/>ties contrarie to what is undertaken here.</p>
+            <p n="3">III. Leaſt this Covenant ſhould ſeeme contrary to thoſe Oathes, there is in the third Article a clauſe, <hi>for pre<g ref="char:EOLhyphen"/>ſerving and defending the Kings Maiesties Perſon and Au<g ref="char:EOLhyphen"/>thority, without any thought or intention of diminiſhing His iuſt Power and Greatneſſe;</hi> which though he that enters this Covenant may thinke to be juſt and faire, yet is it indeed a fearfull Colluſion, and mocking of God, there being no<g ref="char:EOLhyphen"/>thing more againſt His Majeſties Authority and Power, then the intent and purſuit of this Covenant.</p>
+            <p n="4">IIII. He that enters this Covenant, doth bind himſelfe by the fifth Article to endeavour the continuance of Peace between the two Kingdomes, which, according to the in<g ref="char:EOLhyphen"/>tent <pb n="5" facs="tcp:111491:4"/> of this Covenant, he muſt doe, by joyning with thoſe who have now actually broken the Pacification, and in pur<g ref="char:EOLhyphen"/>ſuit of this Covenant invaded this Kingdome: which is alſo a fearfull Colluſion, and mocking of God.</p>
+            <p n="5">V. He that enters this Covenant, doth profeſſe by the ſixt Article, that he allowes and approves the <hi>aſsiſting</hi> and
+<hi>defending</hi> of all thoſe, that take this Covenant, in the
+<hi>main<g ref="char:EOLhyphen"/>taining</hi> and <hi>purſuing</hi> thereof, againſt all oppoſition, and lets or impediments whatſoever; and by the ſame Article binds himſelfe really and conſtantly to endeavour the ſame to his power, without giving himſelfe to a deteſtable <hi>Neutrality</hi> in this Cauſe, or making a <hi>defection</hi> to the contrary part.</p>
+            <p>Now ſee the Iniquity of this Article, which ſo plainly ſpeakes the language of deſperate Rebellion: it is notori<g ref="char:EOLhyphen"/>ouſly known by the Armes which they and the <hi>Scots</hi> have raiſed and uſed in purſuit of this and former Covenants or Conſpiracies, what is meant by
+<hi>aſsiſting</hi> and <hi>defending</hi> their Covenantees, by
+<hi>maintaining</hi> and <hi>purſuing</hi> their Co<g ref="char:EOLhyphen"/>venant againſt all oppoſition whatſoever; ſo that he which Covenants with them, doth by this Article bind himſelfe to endeavour by force of Armes to compell his Soveraign, to the Reformation pretended by this Covenant, and doth, as much as in him lyes, cut himſelfe off from retur<g ref="char:EOLhyphen"/>ning to his duty and obedience, which is here called <hi>a defe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion to the contrary part.</hi> And I marvaile, thoſe Gentle<g ref="char:EOLhyphen"/>men, who by entring this Covenant hope for liberty, doe not ſee in what a Toyle they are caught worſe then the Pri<g ref="char:EOLhyphen"/>ſon; for ſhould they have liberty thereupon, what doe they intend to doe; to live quietly at home. No, they expreſly bind themſelves againſt Neutrality, as a deteſtable thing; or to aſſiſt the King; that indeed they ſtand bound to doe,
+<pb n="6" facs="tcp:111491:5"/> but by this Covenant deſperately undertake againſt it, un<g ref="char:EOLhyphen"/>der the name <hi>of defection to the contrary part.</hi>
+            </p>
+            <p n="6">VI. Laſtly to fill up the meaſure and to mock God Al<g ref="char:EOLhyphen"/>mighty to his face, he that enters Covenant with theſe <hi>holy Leaguers,</hi> doth profeſſe that he approves and binds himſelfe to all their premiſes, as to that which <hi>much concernes the glory of God, the good of the Kingdomes, and the honour of the King. Artic</hi> 6. and elſwhere.</p>
+            <p>All which conſidered, I may conclude, that no Subject in this Kingdome, who has not caſt of the conſcience of that which is juſt and right (much leſſe ſuch an one, that abhorres the deſignes and proceedings of theſe men, and has ſuffered in oppoſition to them) can approve and allow the Contents of this Covenant, and bind himſelfe to a re<g ref="char:EOLhyphen"/>all purſuance of them. But he will rather ſay to his ſoule in the Pſalmiſts words, <hi>Wilt thou have any thing to doe with the ſtoole (or ſeat) of wickedneſſe, which imagineth miſchiefe as a Law? Pſal.</hi>
+94. 20. or as <hi>Iacob</hi> of the <hi>Brethren of Cru<g ref="char:EOLhyphen"/>elty, Oh my ſoule come not thou into their ſecret, Gen.</hi> 49. 6.</p>
+            <p>After the Reſolution of Conſcience, it will be needleſſe to ſtand upon outward Motives, thoſe evills of deſolation which theſe men threaten, as you ſay, to bring upon Fami<g ref="char:EOLhyphen"/>ly, Poſterity, Inheritance; yet I deſire you conſider that Houſes and Families doe continue by the providence and bleſſing of God, not by the will of Cruell and
+<hi>blood-thirſty men,</hi> who (as the Pſalmiſt threatens them) ſhall not them<g ref="char:EOLhyphen"/>ſelves <hi>live out halfe their dayes.</hi>
+            </p>
+            <p>Thus much for the reſolving and keeping a good Con<g ref="char:EOLhyphen"/>ſcience in the refuſall of this Covenant, by reaſon of the groſſe and palpable iniquity of the Contents thereof; now for the recovery of Conſcience enſnared by entring this Covenant, we muſt conſider the <hi>not binding</hi> of it, if taken. <pb n="7" facs="tcp:111491:5"/> Which was the ſecond point propoſed at the beginning.</p>
+            <p>This is a certaine Truth. That the matter and intent of the Covenant being unlawfull, it cannot bind to perfor<g ref="char:EOLhyphen"/>mance; no more, then
+<hi>Herods</hi> oath did bind him to proceed to execution, <hi>Matth.</hi> 14. or the great curſe under which thoſe forty Conſpiratours, <hi>Act.</hi>
+23. combined themſelves to make an end of <hi>Paul,</hi> could indeed oblige them to per<g ref="char:EOLhyphen"/>formance.</p>
+            <p>But there are two ſorts of men that abuſe themſelves by a miſconceit of the <hi>not binding</hi> of this Covenant. 1. Thoſe that are ſuffered to take it with expreſſe Reſervations of their owne framing, which doe annull and fruſtrate the whole Contents, and leave nothing to bind them; as thus, <hi>I take this Covenant, ſo farre forth, as it doth not contrary the Oath of Supremacy and Allegiance,</hi> or the like. And thus the Iudges there, as it is ſaid, were permitted to take it. But they, as wiſe as they are, ſhould have conſidered, that, al<g ref="char:EOLhyphen"/>though indeed they be not bound to performe the Con<g ref="char:EOLhyphen"/>tents of this Covenant being made void by ſuch reſerva<g ref="char:EOLhyphen"/>tions, yet will they be made to know, they muſt performe and proceed as farre as their Maſters (who impoſe it) doe, or ſhall think fit to doe upon after occaſions, and for de<g ref="char:EOLhyphen"/>fault will be dealt with, not as
+<hi>Malignants</hi> only, but as <hi>per<g ref="char:EOLhyphen"/>jured</hi> Perſons. They ſhould alſo (as knowing as they are) learne, that while they thus play faſt and looſe within the compaſſe of their owne Law, Gods Law caſts an heavy bond upon them, the guilt of an heinous ſinne in mocking and taking. Gods name in vaine after ſo high a manner. For when Reſervations are allowed in the taking of Oath or Covenant, they muſt limit the matter of it but in part, and not deſtroy it in the whole; for then the whole buſi<g ref="char:EOLhyphen"/>neſſe is, as was ſaid, an open mockery, a preſumptuous ta<g ref="char:EOLhyphen"/>king of Gods name in vaine, and requires a ſpeedy repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>
+               <pb n="8" facs="tcp:111491:6"/> II. The other ſort are thoſe, who hearing this doctrine, <hi>That this Covenant being taken doth not bind to performance, by reaſon of the unlawfull Contents of it;</hi> doe ignorantly and by ill conſequence conclude themſelves into it after this manner, <hi>If it binds not, then may we take it, and theres no harme done.</hi> They muſt know, that although it binds not to performance, becauſe no man can ſtand bound to doe that which is unlawfull and wicked, yet if they take it, it binds them under the guilt of a grievous ſinne, in calling God to witneſſe, they will doe that, which indeed with a good conſcience they cannot performe. Such I ſay, are not bound to performe what they have wickedly undertaken and promiſed by this Covenant, but they are bound ſpee<g ref="char:EOLhyphen"/>dily to repent of the grievous ſinne they have committed both againſt God, whoſe name and Majeſty they have abuſed in taking ſuch a Covenant, and againſt the King their Soveraigne, to whom they were bound by the oathes of Allegiance and Supremacy, in duties contrary to the deſignes and intention of this Covenant, and ſo had need to make haſt in returning to their duty, as <hi>Shimei</hi> did after he had curſed the King, <hi>And Shimei fell downe before the King and ſaid, Let not my Lord impute iniquity to me, nei<g ref="char:EOLhyphen"/>ther doe thou remember that which thy ſervant did perverſe<g ref="char:EOLhyphen"/>ly on the day that my Lord the King went out of Ieruſalem: For thy ſervant knoweth, that I have ſinned; therefore be<g ref="char:EOLhyphen"/>hold I am come the firſt this day to meet my Lord the King. 2. Sam.</hi> 19. 19,
+20.</p>
+            <p>Sir, I hope you will not need the advice of this latter part, but will, according to the direction of the former, endeavour to keep a good Conſcience, which you ſhall find in this your durance to be <hi>a continuall feaſt<g ref="char:punc">▪</g>
+               </hi> I pray God direct and ſtrengthen you.</p>
+         </div>
+         <div type="covenant">
+            <pb n="9" facs="tcp:111491:6"/>
+            <head>A SOLEMNE League and Covenant FOR Reformation, and Defence of Religion, The Honour and Happineſſe of the KING; And the Peace and Safety of the three Kingdoms OF <hi>England, Scotland,</hi> and
+<hi>Jreland.</hi>
+            </head>
+            <p>
+               <hi>WE Noblemen, Barons, Knights, Gen<g ref="char:EOLhyphen"/>tlemen, Citizens, Burgeſſes, Miniſters of the Goſpell, and Commons of all ſorts in the Kingdoms of</hi> England, Scotland <hi>and</hi> Ireland, <hi>by the Providence of God living under one King, and being of one reformed Religion, ha<g ref="char:EOLhyphen"/>ving before our eyes the glory of God, and the advancement of the Kingdom of our Lord and Saviour Jeſus Christ, the honour and happineſſe of the Kings Majesty, and His Poſterity, and the true publike Liberty, Safety and Peace of the Kingdoms, wherein every ones private con<g ref="char:EOLhyphen"/>dition is included, and calling to mind the trea<g ref="char:EOLhyphen"/>cherous <pb n="10" facs="tcp:111491:7"/> and bloudy plots, Conſpiracies, Attempts and practices of the Enemies of God, againſt the true Religion, and Profeſſors therof in all pla<g ref="char:EOLhyphen"/>ces, eſpecially in theſe three Kingdoms, ever ſince the reformation of Religion, &amp; how much their rage, power, and preſumption, are of late, and at this time increaſed and exerciſed; wherof the deplorable estate of the Church and King<g ref="char:EOLhyphen"/>dome of</hi> Ireland,
+<hi>the distreſſed eſtate of the Church &amp; Kingdom of</hi> England,
+<hi>and the dan<g ref="char:EOLhyphen"/>gerous estate of the Church and Kingdom of</hi> Scotland,
+<hi>are preſent and publike Testimonies; We have now at laſt, (after other means of Supplication, Remonſtrance, Proteſtations, and Sufferings) for the preſervation of our ſelves and our Religion, from utter ruine and De<g ref="char:EOLhyphen"/>ſtruction, according to the commendable practice of theſe Kingdoms in former times, and the ex<g ref="char:EOLhyphen"/>ample of Gods people in other Nations, after mature deliberation, reſolved and determined to enter into a mutuall and ſolemne League and Covenant, wherin we all ſubſcribe, and each one
+<pb n="11" facs="tcp:111491:7"/> of us for himſelf, with our hands lifted up to the moſt high God, do ſwear:</hi>
+            </p>
+            <p n="1">I. THat we ſhall ſincerely, really and conſtantly, through the Grace of God, endeavour in our ſeverall places and callings, the preſervation of the Reformed Religion in the Church of <hi>Scotland,</hi> in Doctrine, Worſhip, Diſci<g ref="char:EOLhyphen"/>pline and Government, againſt our common Enemies, the Reformation of Religion in the Kingdomes of <hi>England</hi> and
+<hi>Ireland,</hi> in Doctrine, Worſhip, Diſcipline and Go<g ref="char:EOLhyphen"/>vernment, according to the Word of God, and the Exam<g ref="char:EOLhyphen"/>ple of the beſt Reformed Churches; And ſhall indeavour to bring the Churches of God in the three Kingdomes, to the neareſt conjunction and uniformity in Religion, Con<g ref="char:EOLhyphen"/>feſſion of Faith, Form of Church-Government, Directo<g ref="char:EOLhyphen"/>ry for Worſhip and Catechizing; That we and our poſte<g ref="char:EOLhyphen"/>rity after us may as Brethren live in Faith and Love, and the Lord may delight to dwell in the midſt of us.</p>
+            <p n="2">II. That wee ſhall in like manner, without reſpect of per<g ref="char:EOLhyphen"/>ſons, endeavour the extirpation of Popery, Prelacy, (that is, Church-Government, by Arch-Biſhops, Biſhops, their Chancellors and Commiſſaries, Deanes, Deanes and Chapters, Arch-Deacons, and all other Eccleſiaſticall Of<g ref="char:EOLhyphen"/>ficers depending on that Hierarchy) Superſtition, Hereſie, Schiſme, Prophaneneſſe, and whatſoever ſhall be found to be contrary to found Doctrine, and the power of God<g ref="char:EOLhyphen"/>lineſſe; leſt we partake in other mens ſins, and thereby be in danger to receive of their plagues, and that the Lord may be one, and his Name one in the three Kingdoms.</p>
+            <p n="3">
+               <pb n="12" facs="tcp:111491:8"/> III. We ſhall with the ſame ſincerity, reality and conſtancy, in our ſeverall Vocations, endeavour with our Eſtates and Lives, mutually to preſerve the Rights and Priviledges of the Parliaments, and the Liberties of the Kingdomes, and to preſerve and defend the Kings Majeſties Perſon and Authority, in the preſervation and defence of the true Re<g ref="char:EOLhyphen"/>ligion, and Liberties of the Kingdoms, that the world may beare witneſſe with our conſciences of our Loyalty, and that we have no thoughts or intentions to diminiſh His Majeſties juſt power and greatneſſe.</p>
+            <p n="4">IIII. Wee ſhall alſo with all faithfullneſſe endeavour the diſ<g ref="char:EOLhyphen"/>covery of all ſuch as have beene, or ſhall be Incendiaries, Malignants, or evill Inſtruments, by hindering the Refor<g ref="char:EOLhyphen"/>mation of Religion, dividing the King from his people, or one of the Kingdomes from another, or making any Fa<g ref="char:EOLhyphen"/>ction or Parties amongſt the People, contrary to this League and Covenant, that they may be brought to pub<g ref="char:EOLhyphen"/>liquetriall, and receive condigne puniſhment, as the de<g ref="char:EOLhyphen"/>gree of their offences ſhall require or deſerve, or the ſu<g ref="char:EOLhyphen"/>preame Iudicatories of both Kingdomes reſpectively, or others having power from them for that effect, ſhall judge convenient.</p>
+            <p n="5">V. And whereas the happineſſe of a bleſſed Peace between theſe Kingdomes, denyed in former times to our Progeni<g ref="char:EOLhyphen"/>tors, is by the good providence of God granted unto us, and hath been lately concluded, and ſetled by both Par<g ref="char:EOLhyphen"/>liaments, we ſhall each one of us, according to our place and intereſt, indeavour that they may remaine conjoyned in a firme Peace and Union to all Poſterity; And that Iu<g ref="char:EOLhyphen"/>ſtice <pb n="13" facs="tcp:111491:8"/> may be done upon the willfull oppoſers thereof, in manner expreſſed in the precedent Articles.</p>
+            <p n="6">VI. We ſhall alſo according to our places and callings in this common Cauſe of Religion, Liberty and Peace of the Kingdome, aſſiſt and defend all thoſe that enter into this League &amp; Covenant, in the maintaining &amp; purſuing there<g ref="char:EOLhyphen"/>of, and ſhall not ſuffer our ſelves directly or indirectly by whatſoever combination, perſwaſion or terrour, to be di<g ref="char:EOLhyphen"/>vided and withdrawn from this bleſſed union &amp; conjuncti<g ref="char:EOLhyphen"/>on, whether to make defection to the contrary part, or to give our ſelves to a deteſtable indifferency or Neutralitie in this Cauſe, which ſo much concerneth the glory of God, the good of the Kingdomes, and the honour of the King; but ſhall all the daies of ourlives, realouſly and conſtantly continue therein, againſt all oppoſition, and promote the ſame according to our power, againſt all Lets and impedi<g ref="char:EOLhyphen"/>ments whatſoever; and what we are not able our ſelves to ſuppreſſe or overcome, we ſhall reveale and make knowne, that it may be timely prevented or removed; All which we ſhall do as in the ſight of God.</p>
+            <p>
+               <hi>And becauſe theſe Kingdomes are guilty of many ſins and pro<g ref="char:EOLhyphen"/>vocations againſt God, and his Son Ieſus Chriſt, as is too manifeſt by our preſent diſtreſſes and dangers, the fruits thereof; We pro<g ref="char:EOLhyphen"/>feſſe and declare before God and the World, our unfained deſire to be humbled for our own ſins, and for the ſins of theſe Kingdoms, eſpecially, that we have not as we ought, valued the ineſtimable benefit of the Goſpel, that we have not laboured for the purity and power thereof, and that we have not endeavoured to receive Chriſt in our hearts, nor to walke worthy of him in our lives, which are the cauſes of other ſins and tranſgreſsions, ſo much a<g ref="char:EOLhyphen"/>bounding <pb n="14" facs="tcp:111491:9"/> amongſt us; And our true and unfained purpoſe, deſire and endeavour for our ſelves, and all others under our power and charge, both in publike and in private, in all duties we owe to God and Man, to amend our lives, and each one to goe before another in the example of a real Reformation, that the Lord may turn a<g ref="char:EOLhyphen"/>way his wrath, and heavy indignation, and eſtabliſh theſe Church<g ref="char:EOLhyphen"/>es and Kingdoms in truth and peace. And this Covenant we made in the preſence of Almighty God, the ſearcher of all hearts, with a true intention to perform the ſame; as we ſhall anſwer at the grea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day, when the ſecrets of all hearts ſhall be diſcloſed; Moſt humbly beſeeching the Lord to ſtrengthen us by his holy ſpirit for this end, and to bleſſe our deſires and proceedings with ſuch ſucceſſe as may be deliverance and ſafety to his people, and encouragement to other Chriſtian Churches groaning under, or in danger of the yoke of Antichriſtian Tyranny, to joine in the ſame, or like Aſſo<g ref="char:EOLhyphen"/>ciation and Covenant, to the glory of God, the enlargement of the Kingdome of Ieſus Chriſt, and the peace and tranquility of Chriſtian Kingdomes, and Common-Wealths.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
